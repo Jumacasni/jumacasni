@@ -35,6 +35,7 @@ const juanma = {
           c++: [""],
           python: ["python-telegram-bot", "pymysql"],
         },
+        dataMining: ["R", "RStudio"],
         machineLearning: ["tensorflow", "keras"],
         databases: ["mysql", "sqlite"]
     },
