@@ -46,11 +46,11 @@ const juanma = {
 };
 ```
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h2 align="center">Profile stats :musical_keyboard:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jumacasni&show_icons=true&theme=synthwave" alt="Juanma's :: Profile Stats" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h2 align="center">Top langs :tongue:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumacasni&langs_count=10&theme=tokyonight&layout=compact" alt="Juanma's :: Top Langs" /></p>
 
