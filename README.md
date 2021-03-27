@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ```javascript
 const juanma = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "games", "food", "eurovision"],
+    askMeAbout: ["web dev", "tech", "software development", "games", "pokemon", "food", "eurovision"],
     technologies: {
         frontEnd: {
             html: [""],
