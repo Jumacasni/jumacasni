@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h2 align="center">About me</h2>
   
 ```javascript
-const juanma = {
+var juanma = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "software development", "games", "pokemon", "food", "eurovision"],
     technologies: {
