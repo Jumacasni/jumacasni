@@ -28,7 +28,7 @@ var juanma = {
             html: [""],
             js: ["jQuery"],
             css: ["less", "bootstrap"],
-            framewors: ["angular", "react"]
+            frameworks: ["angular", "react"]
         },
         backEnd: {
           java: [""],
