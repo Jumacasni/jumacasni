@@ -27,21 +27,22 @@ var juanma = {
         frontEnd: {
             html: [""],
             js: ["jQuery"],
-            css: ["less", "bootstrap"]
+            css: ["less", "bootstrap"],
+            framewors: ["angular", "react"]
         },
         backEnd: {
           java: [""],
           js: ["node", "express"],
           c++: [""],
-          python: ["python-telegram-bot", "pymysql"],
+          python: ["django", "flask", "python-telegram-bot", "pymysql"],
         },
         dataMining: ["R", "RStudio"],
         machineLearning: ["tensorflow", "keras"],
-        databases: ["mysql", "sqlite"]
+        databases: ["mysql", "sqlite", "mongo"]
     },
     currentlyLearning: {
-        python: ["tweepy", "django"],
-        databases: ["mongo", "graphql"]
+        python: ["tweepy"],
+        databases: ["graphql"]
     },
     currentlyWorkingOn: ["finishing my Computer Science Master's Degree at University of Granada"]
 };
