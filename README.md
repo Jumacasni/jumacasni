@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ```javascript
 var juanma = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "software development", "games", "pokemon", "food", "eurovision"],
+    askMeAbout: [ "Salesforce", "web dev", "tech", "software development", "games", "pokemon", "food", "eurovision"],
     technologies: {
         frontEnd: {
             html: [""],
@@ -36,15 +36,15 @@ var juanma = {
           c++: [""],
           python: ["django", "flask", "python-telegram-bot", "pymysql"],
         },
+        salesforce: ["Sales Cloud, Field Service"]
         dataMining: ["R", "RStudio"],
         machineLearning: ["tensorflow", "keras"],
         databases: ["mysql", "sqlite", "mongo"]
     },
     currentlyLearning: {
         python: ["tweepy"],
-        databases: ["graphql"]
+        databases: ["graphql", "neo4j"]
     },
-    currentlyWorkingOn: ["finishing my Computer Science Master's Degree at University of Granada"]
 };
 ```
 
